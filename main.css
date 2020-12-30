@@ -1,0 +1,122 @@
+.main-text {
+  width: 65%;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 110%;
+}
+
+.results-table {
+  font-family: 'Roboto', sans-serif;
+  font-size: 80%;
+  text-align: left;
+}
+
+.Profile-Table {
+  float: right;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  font-family: 'Roboto', sans-serif;
+  font-size: 80%;
+  text-align: center;
+  margin: 5px 5px 25px 5px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  word-wrap: break-word;
+  line-height: 20px;
+  text-align: center;
+}
+
+.Year {
+  min-width: 41px;
+  text-align: center;
+}
+
+.Chassis {
+  min-width: 1px;
+  max-width: 2px;
+  text-align: center;
+  }
+
+.Engine {
+  width: 40px;
+  min-width: 20px;
+  max-width: 40px;
+  text-align: center;
+}
+
+.Race {
+  width: 30px;
+}
+
+.WDC {
+  width: 34px;
+}
+
+.Points {
+  width: 20px;
+  min-width: 20px;
+}
+
+.race-result-1 {
+  background-color: #FFFFBF;
+  text-align: center;
+  text-color: blue;
+}
+
+.race-result-2 {
+  background-color: #DFDFDF;
+  text-align: center;
+}
+
+.race-result-3 {
+  background-color: #ffdf9f;
+  text-align: center;
+}
+
+.race-result-4to10 {
+  background-color: #DFFFDF;
+  text-align: center;
+}
+
+.race-result-11-on {
+  background-color: #cfcfff;
+  text-align: center;
+}
+
+.race-result-ret {
+  background-color: #efcfff;
+  text-align: center;
+}
+
+.race-DNE {
+  background-color: white;
+  text-align: center;
+}
+
+.champion {
+  background-color: #FFFFBF;
+  text-align: center;
+}
+
+.EndYear3 {
+  background-color: #ffdf9f;
+  text-align: center;
+}
+
+.EndYear4-10 {
+  background-color: #DFFFDF;
+  text-align: center;
+}
+ 
